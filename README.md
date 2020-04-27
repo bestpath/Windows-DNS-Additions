@@ -23,9 +23,9 @@ The script can be run from the Command Prompt using the following syntax:
 
 The script assumes that you have created a ".csv" file created using the following header and value format:
 	
-Groups Collection Layout:
+CSV File Layout:
 
 	ServerName,ServerZone,ServerIP
-  test1,bestpath.io,10.1.1.1
-  test2,bestpath.io,10.1.1.2
-  test3,bestpath.io,10.1.1.3
+  	test1,bestpath.io,10.1.1.1
+  	test2,bestpath.io,10.1.1.2
+  	test3,bestpath.io,10.1.1.3
